@@ -1,0 +1,15 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2018.09.18"]
+[White "rojintsam"]
+[Black "Behrooz1x"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "1528"]
+[BlackElo "1349"]
+[TimeControl "900+10"]
+[EndTime "1:43:36 PDT"]
+[Termination "rojintsam won by resignation"]
+[CurrentPosition "2qkr3/Q4ppp/4p3/2BpP3/8/2pP4/5PPP/1R4K1 w - - 4 37"]
+
+1.Nf3 {[%clk 0:14:57]} c5 {[%clk 0:15:07]} 2.e4 {[%clk 0:14:22]} e6 {[%clk 0:15:16]} 3.Bd3 {[%clk 0:14:18]} Nc6 {[%clk 0:15:13]} 4.Nc3 {[%clk 0:14:17]} a6 {[%clk 0:15:17]} 5.b4 {[%clk 0:14:20]} Nxb4 {[%clk 0:15:24]} 6.Ba3 {[%clk 0:14:22]} Nxd3+ {[%clk 0:15:28]} 7.cxd3 {[%clk 0:14:20]} b5 {[%clk 0:15:37]} 8.Ne2 {[%clk 0:14:18]} Nf6 {[%clk 0:15:42]} 9.O-O {[%clk 0:14:19]} Bb7 {[%clk 0:15:49]} 10.Rc1 {[%clk 0:14:14]} Rc8 {[%clk 0:15:48]} 11.Bb2 {[%clk 0:12:41]} d5 {[%clk 0:15:32]} 12.e5 {[%clk 0:12:21]} Nd7 {[%clk 0:14:19]} 13.d4 {[%clk 0:10:21]} c4 {[%clk 0:14:25]} 14.d3 {[%clk 0:10:05]} Qa5 {[%clk 0:14:18]} 15.Bc3 {[%clk 0:10:03]} b4 {[%clk 0:11:28]} 16.Bd2 {[%clk 0:10:04]} c3 {[%clk 0:11:36]} 17.Be3 {[%clk 0:10:03]} Qxa2 {[%clk 0:11:35]} 18.Ra1 {[%clk 0:09:58]} Qb2 {[%clk 0:11:19]} 19.Rb1 {[%clk 0:09:54]} Qa3 {[%clk 0:11:17]} 20.Qc2 {[%clk 0:09:46]} Qa5 {[%clk 0:11:04]} 21.Ra1 {[%clk 0:09:46]} Qb5 {[%clk 0:11:09]} 22.Nc1 {[%clk 0:09:42]} a5 {[%clk 0:11:13]} 23.Re1 {[%clk 0:09:42]} Nb6 {[%clk 0:10:57]} 24.Nb3 {[%clk 0:09:37]} a4 {[%clk 0:09:41]} 25.Nc5 {[%clk 0:09:34]} Bc6 {[%clk 0:08:59]} 26.Reb1 {[%clk 0:09:31]} Bxc5 {[%clk 0:05:11]} 27.dxc5 {[%clk 0:09:27]} Nd7 {[%clk 0:04:57]} 28.Nd4 {[%clk 0:09:24]} Qb7 {[%clk 0:04:17]} 29.Nxc6 {[%clk 0:09:21]} Rxc6 {[%clk 0:04:16]} 30.Rxa4 {[%clk 0:09:20]} Nxc5 {[%clk 0:04:23]} 31.Raxb4 {[%clk 0:09:16]} Qd7 {[%clk 0:04:08]} 32.Rb8+ {[%clk 0:09:09]} Rc8 {[%clk 0:03:49]} 33.Bxc5 {[%clk 0:09:09]} Qc6 {[%clk 0:03:07]} 34.Rxc8+ {[%clk 0:08:59]} Qxc8 {[%clk 0:03:13]} 35.Qa4+ {[%clk 0:08:57]} Kd8 {[%clk 0:03:19]} 36.Qa7 {[%clk 0:08:57]} Re8 {[%clk 0:03:10]}  1-0
